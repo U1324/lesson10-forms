@@ -1,0 +1,15 @@
+        @media (max-width: 1080px) {
+            .img-wraper {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+        
+        @media (max-width: 1057px) {
+            .footer-container {
+                width: 100%;
+                flex-wrap: wrap;
+                justify-content: center;
+                flex-direction: column;
+            }
+        }
